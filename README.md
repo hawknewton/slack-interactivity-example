@@ -37,7 +37,7 @@ Make note of your localhost.run https url, it'll change every time you start a n
 
 ## Setup slack webooks
 
-Set the `Request URL` for your app (as described [here](https://api.slack.com/interactivity/handling#setup)) to the localhost.run https URL above.
+Set the `Request URL` for your app (as described [here](https://api.slack.com/interactivity/handling#setup)) to the localhost.run https URL above with `/slack-webhook` appended.  For example, if your localhost.run https URL is `https://awesome-123.localhost.run` you'll set `RequestURL to `https://awesome-123.localhost.run/slack-webhook`.
 
 # Running the example
 
