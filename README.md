@@ -1,5 +1,5 @@
 # Overview
-This is an example project showing how to handle interactivity from slack.  It uses [Slack Bot Kit](https://api.slack.com/block-kit) to add a button to a message and [Slack app interactivity](https://api.slack.com/interactivity) to receive a webhook and post a message back to the user.
+This is an example project showing how to handle interactivity from slack.  It uses [Slack Block Kit](https://api.slack.com/block-kit) to add a button to a message and [Slack app interactivity](https://api.slack.com/interactivity) to receive a webhook and post a message back to the user.
 
 # Setup
 
